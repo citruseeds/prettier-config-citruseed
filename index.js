@@ -1,3 +1,3 @@
-import prettierrc from './.prettierrc';
+const prettierrc = require('./.prettierrc');
 
 export default prettierrc;
