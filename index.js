@@ -1,3 +1,3 @@
 const prettierrc = require('./.prettierrc');
 
-export default prettierrc;
+module.exports = prettierrc;
